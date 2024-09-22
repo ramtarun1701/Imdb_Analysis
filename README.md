@@ -1,4 +1,4 @@
-# Imdb_WT
+# Imdb_Data Analysis
 Imdb dataset exploratory data analysis 
 Overview This project involves analyzing a dataset of movies to provide insights into profitability, genre preferences, and actor performance. The analysis includes determining the highest profit movies, exploring the return on investment (ROI) by genre, and identifying successful actors and directors.
 
